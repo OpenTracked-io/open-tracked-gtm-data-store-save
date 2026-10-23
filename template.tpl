@@ -15,6 +15,10 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Open Tracked Data Store Save",
   "description": "Remembers what this event tells about the visitor (hashed email and phone, name, click IDs) in your Open Tracked Data Store, so later events can be enriched with it.",
+  "categories": [
+    "UTILITY",
+    "ADVERTISING"
+  ],
   "containerContexts": [
     "SERVER"
   ],
